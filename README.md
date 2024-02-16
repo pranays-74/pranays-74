@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Pranay</h1>
-<h3 align="center">A passionate Node Js developer from India</h3>
+<h3 align="center">A passionate Node Js developer</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=pranays-74&label=Profile%20views&color=0e75b6&style=flat" alt="pranays-74" /> </p>
 
@@ -9,7 +9,6 @@
 
 - 📫 How to reach me **pranayshende74@outlook.com**
 
-- ⚡ Fun fact **I like tech.**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -23,4 +22,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=pranays-74&show_icons=true&locale=en" alt="pranays-74" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=pranays-74&" alt="pranays-74" /></p>
